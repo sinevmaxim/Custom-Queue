@@ -1,8 +1,8 @@
 //
-// queue.cpp
-// 你好
+// 
 //
-// Created by Maxim Sinev on 25.03.2020.
+//
+// 
 //
 
 #include <iostream>
